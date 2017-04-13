@@ -1,6 +1,6 @@
 /*
 	Cesar Camarena
-	
+	Jeremiah Payne
 	Lab 12
 */
 #include "BinarySearchTree.h"

@@ -1,6 +1,6 @@
 /*
 	Cesar Camarena
-	
+	Jeremiah Payne
 	Lab 12
 */
 #if !defined (BINARYSEARCHTREE_H)
